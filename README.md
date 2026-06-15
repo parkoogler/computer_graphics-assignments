@@ -1,4 +1,4 @@
-# Computer Vision Assignments
+# Computer Graphics Assignments
 
 Student ID: 2022120035  
 Name: Chanhong Park
